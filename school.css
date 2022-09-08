@@ -1,19 +1,30 @@
-h1{
-    text-align: center;
-    font-size: 55px;
+.place{
     font-family: serif;
-    background: linear-gradient(to right,red,green,blue,orange);
+    background-color: aqua;
+    text-align: right;
+    border: solid;
+    border-color: blue;
+}
+h1{
+     font-size: 50px;
+     text-align: center;
 }
 body{
     background-color: beige;
 }
-p{
+.risou{
     text-align: center;
+    padding: 80px;
 }
-h2{
+.news{
+    border:solid;
+    border-color: black;
     text-align: center;
+    width: 600px;
+    height:100px;
+    margin: 0 auto;
+    overflow: scroll;
 }
-div{
-    background-color: brown;
-    text-align: center;
-}
+
+
+
