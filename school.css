@@ -1,13 +1,14 @@
 .place{
-    font-family: serif;
     background-color: aqua;
     text-align: right;
     border: solid;
     border-color: blue;
 }
 h1{
-     font-size: 50px;
-     text-align: center;
+    letter-spacing: 0.5em;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
 }
 body{
     background-color: beige;
@@ -15,16 +16,26 @@ body{
 .risou{
     text-align: center;
     padding: 80px;
+    font-family: serif;
 }
 .news{
     border:solid;
     border-color: black;
-    text-align: center;
     width: 600px;
     height:100px;
     margin: 0 auto;
     overflow: scroll;
 }
+h3{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+span{
+    margin-right: 150px;
+}
+
 
 
 
